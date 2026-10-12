@@ -50,3 +50,4 @@ app.*.map.json
 lib/firebase_options.dart
 .env
 android/app/google-services.json
+.vscode
